@@ -5,7 +5,7 @@ The first two stanzas of this poem have spelling mistakes! Clone this repo, fix 
 
 The Road Not Taken 
 BY ROBERT FROST
-Two roads diverged in a yeellow wood,
+Two roads diverged in a yellow wood,
 And sorry I could not travel boath
 And be one traveler, long I stoud
 And looked down one as far as I kould
