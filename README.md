@@ -17,7 +17,7 @@ Because it wos grassy and wanted wear;
 Though as for that the passing there
 Had worn them really aboot the same,
 
-And both that morning equally lay
+And both that morning equally lay,
 In leaves no step had trodden black.
 Oh, I kept the first for another day!
 Yet knowing how way leads on to way,
@@ -25,6 +25,6 @@ I doubted if I should ever come back.
 
 I shall be telling this with a sigh
 Somewhere ages and ages hence:
-Two roads diverged in a wood, and I—
+Two roads diverged in a wood, and
 I took the one less traveled by,
 And that has made all the difference.
