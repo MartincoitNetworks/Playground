@@ -17,7 +17,7 @@ Because it wos grassy and wanted wear;
 Though as for that the passing there
 Had worn them really aboot the same,
 
-And both that morning equally lay
+And both that morning equally lay,
 In leaves no step had trodden black.
 Oh, I kept the first for another day!
 Yet knowing how way leads on to way,
