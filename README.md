@@ -6,10 +6,10 @@ The first two stanzas of this poem have spelling mistakes! Clone this repo, fix 
 The Road Not Taken 
 BY ROBERT FROST
 Two roads diverged in a yellow wood,
-And sorry I could not travel boath
+And sorry I could not travel both
 And be one traveler, long I stood
-And looked down one as far as I kould
-To where it bent in tje undergrowth;
+And looked down one as far as I could
+To where it bent in the undergrowth;
 
 Then towk the other, as just as fair,
 And haxing perhaps the better claim,
